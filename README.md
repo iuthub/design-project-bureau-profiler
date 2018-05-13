@@ -1,5 +1,12 @@
-# Internet Programming: Design Project Assignment
 
-Find `ip_design_project.pdf` file in this folder, and refer to all the instructions given there. 
+Team name : Bureau profiler
 
-You have to submit your project into this repository before 06.05.2018.
+Members:
+
+Abdullokh Askarov       U1610005
+Diyorkhon Mukhammedkhanov    U1610257
+Rodion Akhmedov      U1610191
+Shokhrukh Shokhnazarov      U1610228
+Umarbek Orifov        U1610246 
+
+Website adress: http://bureauprofiler.000webhostapp.com
