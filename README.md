@@ -14,3 +14,5 @@ Shokhrukh Shokhnazarov      U1610228
 Umarbek Orifov        U1610246 
 
 Website adress: http://bureauprofiler.000webhostapp.com
+
+The Project is in ip_Project file
