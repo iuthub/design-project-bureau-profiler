@@ -14,6 +14,7 @@ Shokhrukh Shokhnazarov      U1610228
 Umarbek Orifov        U1610246 
 
 Website adress: https://berauprofiler.000webhostapp.com/index.html
+There is typo in web address written in report, please use above address.
 
 The Project is in ip_project file    Link :https://github.com/iuthub/design-project-bureau-profiler/blob/master/ip_project.zip
 
